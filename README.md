@@ -7,9 +7,6 @@ by *Andrew Caunes, Thierry Chateau, Vincent Frémont*
 
 ![Overview of the method](./imgs/overview.pdf)
 
-## Code Availability
-
-The full codebase will be made publicly available upon the publication of the paper. Until then, this repository serves as a preliminary source to detail the setup and parameters used in our experiments.
 
 ## Implementation details
 
