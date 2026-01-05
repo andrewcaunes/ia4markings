@@ -6,6 +6,9 @@ Official PyTorch implementation of the method **Seg_3D_by_PC2D**. More details c
 by *Andrew Caunes, Thierry Chateau, Vincent Frémont*
 
 ![Overview of the method](./imgs/overview_wt_bg.png)
+<p align="center">
+  <img src="imgs/overview_wt_bg.png" width="600">
+</p>
 
 
 ## Implementation details
