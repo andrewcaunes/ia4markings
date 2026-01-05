@@ -5,9 +5,8 @@ Official PyTorch implementation of the method **Seg_3D_by_PC2D**. More details c
 **Multi-View Projection for Unsupervised Domain Adaptation in 3D Semantic Segmentation**, (preprint) [[arXiv to come](https://arxiv.org/html/2505.15545v1)]
 by *Andrew Caunes, Thierry Chateau, Vincent Frémont*
 
-![Overview of the method](./imgs/overview_wt_bg.png)
 <p align="center">
-  <img src="imgs/overview_wt_bg.png" width="600">
+  <img src="imgs/overview_wt_bg.png" width="700">
 </p>
 
 
