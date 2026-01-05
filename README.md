@@ -1,6 +1,6 @@
 # Multi-View Projection for Unsupervised Domain Adaptation in 3D Semantic Segmentation
 
-Official PyTorch implementation of the method **Seg_3D_by_PC2D**. More details can be found in the paper:
+Official repository of the method **Seg_3D_by_PC2D**. More details can be found in the paper:
 
 **Multi-View Projection for Unsupervised Domain Adaptation in 3D Semantic Segmentation**, [[preprint](https://arxiv.org/html/2505.15545v1)]
 by *Andrew Caunes, Thierry Chateau, Vincent Frémont*
